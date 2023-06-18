@@ -1,7 +1,7 @@
 {
 
-  "name": "PRABATH-MD (5.0.0)",
-  "description": "PRABATH-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+  "name": "AB-BOT-MD (5.0.0)",
+  "description": "AB-BOT-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
   "logo": "https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "multi device"],
   "success_url": "/",
@@ -13,15 +13,15 @@
 
   "OWNER_NAME": {
 
-  "description": "put owner name here",
+  "description": "ABRAHAM DWAMENA",
 
-      "value": "PRABATH-MD"
+      "value": "AB-BOT-MD"
 
   },
 
   "ALIVE_IMG": {
 
-    "description": "alive එකට එන්න ඕන image එකක url එකක් දෙන්න",
+    "description": "alive AM ALIVE SINCE AB MADE ME",
 
      "required" :false
 
@@ -29,7 +29,7 @@
 
    "ALIVE_MSJ": {
 
-    "description": "alive මැසෙජ් එක මෙතනට දාන්න",
+    "description": "alive BY AB",
 
      "value": "i am alive now 🙋‍♂️"
 
@@ -111,7 +111,7 @@
 
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma",
 
-       "value": "94762280384"
+       "value": "233576635791"
 
   },
 
@@ -165,7 +165,7 @@
 
     "description": "Put packname;authorname.",
 
-     "value": "PRABATH-MD🎊;𝚙𝚛𝚊𝚋𝚊𝚝𝚑✅",
+     "value": "AB-BOT-MD🎊;ABRAHAM✅",
 
      "required": false 
 
