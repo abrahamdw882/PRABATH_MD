@@ -12,15 +12,15 @@ global.port= process.env.PORT || 5000
 
 global.email = 'sam@sec.live'
 
-global.github = 'https://github.com/prabathLK/PRABATH-MD'
+global.github = 'https://github.com/abrahamdw882/PRABATH_MD'
 
 global.location = 'Sultanpur IN'
 
 global.gurl = 'https://instagram.com/' // add your username
 
-global.devs = '94762280384';
+global.devs = '233576635791';
 
-global.website = 'https://github.com/prabathLK/PRABATH-MD' //wa.me/+94762280384
+global.website = 'https://github.com/abrahamdw882/PRABATH_MD' //wa.me/+94762280384
 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://i.imgur.com/H062oEI.jpeg'
 
@@ -28,17 +28,17 @@ module.exports = {
 
   OPENAI_API_KEY:process.env.OPENAI_API_KEY || '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',
 
-  botname: process.env.BOT_NAME || 'PRABATH-MD',
+  botname: process.env.BOT_NAME || 'AB-BOT-MD',
 
   art: process.env.AUTO_RESTART || 'true',
 
-  sudo: process.env.SUDO || '94762280384',
+  sudo: process.env.SUDO || '233576635791',
 
   alivepic: process.env.ALIVE_IMG || 'https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg',
 
-  alivemsj: process.env.ALIVE_MSJ || '*POWERD BY PRABATH-MD* 🎊',
+  alivemsj: process.env.ALIVE_MSJ || '*POWERD BY AB-BOT-MD* 🎊',
 
-  ownername:process.env.OWNER_NAME || 'PRABATH',
+  ownername:process.env.OWNER_NAME || 'ABRAHAM',
 
   sessionName: process.env.SESSION_ID || 'PUT-HERE',
 
